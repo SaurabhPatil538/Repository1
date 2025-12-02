@@ -4,3 +4,5 @@ EmployeeDAO Interface
 EmployeeService Interface
 EmployeeDAOImpl class
 EmployeeServiceImpl class
+Add JPA Repositories
+Add Dependencies of Oracle 
